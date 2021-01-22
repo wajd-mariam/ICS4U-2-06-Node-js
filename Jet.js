@@ -1,6 +1,4 @@
 /**
- * Copyright (c) 2020
- *
  * The Flytest.java program calculates virtual speed 
  * of planes flight test.
  * 
